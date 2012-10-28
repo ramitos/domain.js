@@ -28,7 +28,7 @@ with parsed url:
 var domain = require('domain.js'),
     url = require('url')
 
-tld(url.parse('http://www.example.co.uk')) //=> example.co.uk
+domain(url.parse('http://www.example.co.uk')) //=> example.co.uk
 ```
 
 ## test [![Build Status](https://secure.travis-ci.org/ramitos/domain.js.png)](http://travis-ci.org/ramitos/domain.js)
