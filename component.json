@@ -1,0 +1,12 @@
+{
+  "name": "domain.js",
+  "repo": "ramitos/domain.js",
+  "description": "get the domain from a url",
+  "version": "0.0.1",
+  "keywords": ["url", "domain"],
+  "main": "src/tld.js",
+  "scripts": ["src/domain.js"],
+  "dependencies": {
+    "ramitos/tld.js": "*"
+  }
+}
