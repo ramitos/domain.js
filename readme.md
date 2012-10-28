@@ -1,4 +1,4 @@
-# tldjs
+# domain.js
 
 get the domain from a url
 
