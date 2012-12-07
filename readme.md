@@ -1,6 +1,6 @@
 # domain.js
 
-get the domain from a url
+get the domain from an url
 
 ## installation
 
