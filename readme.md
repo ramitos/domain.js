@@ -33,11 +33,11 @@ domain(url.parse('http://www.example.co.uk')) //=> example.co.uk
 
 ## test [![Build Status](https://secure.travis-ci.org/ramitos/domain.js.png)](http://travis-ci.org/ramitos/domain.js)
 
-    $ make test
+    $ npm test
 
 ## credits
- 
- * inspired by URI.js
+
+ * inspired by [URI.js](https://github.com/medialize/URI.js/)
 
 ## license
 
