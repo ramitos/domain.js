@@ -6,7 +6,7 @@
   "version": "0.0.2",
   "license": "MIT",
   "keywords": ["url", "domain"],
-  "main": "src/tld.js",
+  "main": "src/domain.js",
   "scripts": ["src/domain.js"],
   "dependencies": {
     "ramitos/tld.js": "*"
