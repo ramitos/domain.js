@@ -9,6 +9,7 @@
   "main": "src/domain.js",
   "scripts": ["src/domain.js"],
   "dependencies": {
-    "ramitos/tld.js": "*"
+    "ramitos/tld.js": "*",
+    "component/url": "*"
   }
 }
