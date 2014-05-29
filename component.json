@@ -3,7 +3,7 @@
   "repo": "ramitos/domain.js",
   "description": "get the domain from a url",
   "twitter": "@ramitos",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "license": "MIT",
   "keywords": ["url", "domain"],
   "main": "src/domain.js",
